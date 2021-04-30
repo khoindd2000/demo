@@ -1,12 +1,6 @@
 {
-  "user": [
-  {
+  "user": {
     "id": 1,
     "name": "Khoi"
-  },
-  {
-    "id": 2,
-    "name": "Khoi1"
   }
-  ]
 }
